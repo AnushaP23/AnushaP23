@@ -5,4 +5,4 @@ Application Developer at IBM, Bengaluru, working on Generative AI. I build LLM s
 
 **Work with:** Python · LangChain · LangGraph · FastAPI · multi-agent systems · Anthropic & OpenAI APIs · Blue Prism / SAP automation
 
-📫 [LinkedIn](https://www.linkedin.com/in/anushaphullathi) · your-email
+📫 [LinkedIn](https://www.linkedin.com/in/anushaphullathi) · anusha.hullathi@gmail.com
